@@ -2,7 +2,7 @@
  A very minimal CmdId dumper for a certain anime game
 
 # Usage
- Compile, feed it YuanShen.exe and list of get_cmdid() rvas
+ Compile, feed it YuanShen.exe and list of get_cmdid() rvas\
  the rva list should look like this:
  ```
     KOOKJNLBAMH 0x0CCA3780
